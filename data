@@ -1,0 +1,312 @@
+{
+	"inventory": {
+		"Materials": {
+			"airCrystal": "Air Crystal",
+			"airSpeck": "Air Speck",
+			"ancientScroll": "Ancient Scroll",
+			"batWing": "Bat Wing",
+			"berry": "Berry",
+			"blackCloth": "Black Cloth",
+			"blackWool": "Black Wool",
+			"bone": "Bone",
+			"bookOfDivineKnowledge": "Book of Divine Knowledge",
+			"cloth": "Cloth",
+			"crystallizedThunder": "Crystallized Thunder",
+			"darknessSpeck": "Darkness Speck",
+			"divineBar": "Divine Bar",
+			"earthCrystal": "Earth Crystal",
+			"earthSpeck": "Earth Speck",
+			"eyeball": "Eye Ball",
+			"fineDust": "Fine Dust",
+			"fireCrystal": "Fire Crystal",
+			"fireSpeck": "Fire Speck",
+			"goldNugget": "Gold Nugget",
+			"griffinFeather": "Griffin Feather",
+			"ivy": "Ivy",
+			"keyToTheDais": "Key to the Dais",
+			"lightningSpeck": "Lightning Speck",
+			"lightweightChest": "Lightweight Chest",
+			"livingWood": "Living Wood",
+			"magicCloth": "Magic Cloth",
+			"magicWool": "Magic Wool",
+			"natureSpeck": "Nature Speck",
+			"pythonFang": "Python Fang",
+			"rainbowGem": "Rainbow Gem",
+			"ratTail": "Mouse Tail",
+			"silverBar": "Silver Bar",
+			"skull": "Skull",
+			"thread": "Thread",
+			"waterCrystal": "Water Crystal",
+			"waterSpeck": "Water Speck",
+			"wool": "Wool"
+		},
+		"Consumables": {
+			"deadlyPoisonVial": "Deadly Poison Vial",
+			"deathMushroom": "Death Mushroom",
+			"defensePotion": "Defense Potion",
+			"elixirOfLife": "Elixir of Life",
+			"godsFruit": "God's Fruit",
+			"greaterDefensePotion": "Greater Defense Potion",
+			"greaterHealthPotion": "Greater Health Potion",
+			"greaterSpeedPotion": "Greater Speed Potion",
+			"greaterStrengthPotion": "Greater Strength Potion",
+			"greaterVitalityPotion": "Greater Vitality Potion",
+			"healthPotion": "Health Potion",
+			"manaPotion": "Mana Potion",
+			"manaRegenerationPotion": "Potion of Mana Regen",
+			"medicinalHerb": "Medicinal Herb",
+			"monsterCandy": "Monster Candy",
+			"mushroom": "Mushroom",
+			"potionOfAugmentation": "Potion of Augmentation",
+			"potionOfExtremeResilience": "Potion of Extreme Resilience",
+			"potionOfFocus": "Potion of Focus",
+			"potionOfSharpness": "Potion of Sharpness",
+			"regenerationPotion": "Potion of Regeneration",
+			"speedPotion": "Speed Potion",
+			"strengthPotion": "Strength Potion",
+			"stunBomb": "Stun Bomb",
+			"ultimateAlchemy": "Ultimate Alchemy",
+			"venomoursBrew": "Venomous Brew",
+			"vitalityPotion": "Vitality Potion"
+		},
+		"Weapons": {
+			"airWand": "Air Wand",
+			"assassinsDagger": "Assassin's Dagger",
+			"battleAxe": "Battle Axe",
+			"boneBow": "Bone Bow",
+			"boneStaff": "Bone Staff",
+			"branch": "Branch",
+			"broadSword": "Broad Sword",
+			"club": "Club",
+			"crystalKnuckle": "Crystal Knuckle",
+			"dagger": "Dagger",
+			"darknessWand": "Darkness Wand",
+			"divineBlade": "Divine Blade",
+			"divineWand": "Divine Wand",
+			"earthWand": "Earth Wand",
+			"electricSword": "Electric Sword",
+			"fireWand": "Fire Wand",
+			"glaive": "Glaive",
+			"goldenBattleAxe": "Golden Battle Axe",
+			"goldenScythe": "Golden Scythe",
+			"goldenSword": "Golden Sword",
+			"handAxe": "Hand Axe",
+			"lightningWand": "Lightning Wand",
+			"livingWoodStaff": "Living Wood Staff",
+			"longbow": "Longbow",
+			"morningstar": "Morningstar",
+			"natureWand": "Nature Wand",
+			"poisonousAxe": "Poisonous Axe",
+			"rainbowSword": "Rainbow Sword",
+			"scimitar": "Scimitar",
+			"searingSword": "Searing Sword",
+			"shortbow": "Shortbow",
+			"shurikenOfWind": "Shuriken of Wind",
+			"sickle": "Sickle",
+			"silverAxe": "Silver Axe",
+			"silverDagger": "Silver Dagger",
+			"silverSaber": "Silver Saber",
+			"silverStaff": "Silver Staff",
+			"spear": "Spear",
+			"spikedClub": "Spiked Club",
+			"starWand": "Star Wand",
+			"sword": "Sword",
+			"swordOfDeath": "Sword of Death",
+			"thunderTrident": "Thunder Trident",
+			"thunderWhip": "Thunder Whip",
+			"vampiricSpear": "Vampiric Spear",
+			"waterWand": "Water Wand",
+			"whipOfTheLich": "Whip of the Lich"
+		},
+		"Armor": {
+			"aegisArmor": "Aergis Armor",
+			"archwizardsRobe": "Archwizard's Robe",
+			"blackRobe": "Black Robe",
+			"boneArmor": "Bone Armor",
+			"darkRobe": "Dark Robe",
+			"divineArmor": "Divine Armor",
+			"earthernArmor": "Earthern Armor",
+			"elderWizardsRobe": "Elder Wizard's Robe",
+			"electricArmor": "Electric Armor",
+			"fighterArmor": "Fighter's Armor",
+			"fullePlate": "Full Plate",
+			"garmentOfFlowingWater": "Garment of Flowing Water",
+			"goldInfusedFullPlate": "Gold-Infused Full Plate",
+			"ironMail": "Iron Mail",
+			"nightdwellersGarb": "Night-dweller's Garb",
+			"rainbowArmor": "Rainbow Armor",
+			"reinforcedIronMail": "Reinforced Iron Mail",
+			"thiefsGarb": "Thief's Garb",
+			"wizardRobe": "Wizard's Robe",
+			"wondrousRobe": "Wondrous Robe"
+		},
+		"Accessories": {
+			"beltOfStunning": "Belt of Stunning",
+			"blackCloak": "Black Cloak",
+			"blurringFootwear": "Blurring Footwear",
+			"cloak": "Cloak",
+			"cloakOfRegeneration": "Cloak of Regeneration",
+			"clothShoes": "Cloth Shoes",
+			"crystallizedMana": "Crystallized Mana",
+			"cursedNecklace": "Cursed Necklace",
+			"divineShield": "Divine Shield",
+			"enchantedCloak": "Enchanted Cloak",
+			"fancyShield": "Fancy Shield",
+			"featheredHat": "Feathered Hat",
+			"flagOfAlchemy": "Flag of Alchemy",
+			"flagOfBreeding": "Flag of Breeding",
+			"flagOfConjuration": "Flag of Conjuration",
+			"flagOfDivination": "Flag of Divination",
+			"flagOfEnchantment": "Flag of Enchantment",
+			"flagOfEvocation": "Flag of Evocation",
+			"flagOfIllusion": "Flag of Illusion",
+			"flagOfProtection": "Flag of Protection",
+			"flagOfSummoning": "Flag of Summoning",
+			"holyShield": "Holy Shield",
+			"largeShield": "Large Shield",
+			"maskOfCunning": "Mask of Cunning",
+			"necklaceOfDeathProtection": "Necklace of Death Protection",
+			"pythonNecklace": "Python Necklace",
+			"rainbowNecklace": "Rainbow Necklace",
+			"runeOfSilenceResistance": "Rune of Silence Resistance",
+			"sageHat": "Sage Hat",
+			"wingedShoes": "Winged Shoes",
+			"witchsHat": "Witch's Hat",
+			"woodenSandals": "Wooden Sandals"
+		}
+	},
+	"resources": [
+		{
+			"name": "Mana"
+		},
+		{
+			"name": "Stone"
+		},
+		{
+			"name": "Wood"
+		},
+		{
+			"name": "Water"
+		},
+		{
+			"name": "Iron"
+		},
+		{
+			"name": "Temperature"
+		},
+		{
+			"name": "Monstium"
+		},
+		{
+			"name": "Electricity"
+		},
+		{
+			"name": "Coins"
+		},
+		{
+			"name": "Time Pieces"
+		}
+	],
+	"buildings": [
+		{
+			"name": "Mana Spout",
+			"max": 1
+		},
+		{
+			"name": "Mana Geyser",
+			"max": 1
+		},
+		{
+			"name": "Mana Shard",
+			"max": 1
+		},
+		{
+			"name": "Mana Crystal",
+			"max": 1
+		},
+		{
+			"name": "Lumber Yard",
+			"max": 1
+		},
+		{
+			"name": "Mine",
+			"max": 1
+		},
+		{
+			"name": "Canal",
+			"max": 1
+		},
+		{
+			"name": "Furnace",
+			"max": 1
+		},
+		{
+			"name": "Warehouse",
+			"max": 1
+		},
+		{
+			"name": "Monstruarium",
+			"max": 1
+		},
+		{
+			"name": "Water Tank",
+			"max": 1
+		},
+		{
+			"name": "Vault",
+			"max": 1
+		},
+		{
+			"name": "Time Capsule",
+			"max": 1
+		},
+		{
+			"name": "Electric Mana Fountain",
+			"max": 1
+		},
+		{
+			"name": "Electric Sawmill",
+			"max": 1
+		},
+		{
+			"name": "Electric Drill",
+			"max": 1
+		},
+		{
+			"name": "Generator",
+			"max": 1
+		},
+		{
+			"name": "Electric Lamp",
+			"max": 1
+		},
+		{
+			"name": "Mana Cascade",
+			"max": 1
+		},
+		{
+			"name": "Mana Battery",
+			"max": 1
+		},
+		{
+			"name": "Dimensional Artifact",
+			"max": 1
+		},
+		{
+			"name": "Researcher Cabin",
+			"max": 1
+		},
+		{
+			"name": "Researcher Villa",
+			"max": 1
+		},
+		{
+			"name": "Apprentice Dorm",
+			"max": 1
+		},
+		{
+			"name": "Creature Pen",
+			"max": 1
+		}
+	]
+}
