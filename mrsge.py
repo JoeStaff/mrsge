@@ -25,7 +25,7 @@ def process_selected_file():
     if selected_indices:
 
         try:
-            with open("data", "rb") as f:
+            with open("data.data", "rb") as f:
                 data=f.read()
                 global data_json
                 data_json=json.loads(data)

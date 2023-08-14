@@ -1,4 +1,5 @@
 *
 !.gitignore
-!data
+!data.data
 !mrsge.py
+!buildozer.spec
